@@ -1,4 +1,3 @@
-// pages/schedule.vue
 <template>
 	<div class="space-y-8">
 		<div class="flex items-center justify-between">
